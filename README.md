@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/L2-AZAD-ADM03/Space%20Game%20-Web%20-%20Pipeline/_apis/build/status/kmclaughlin145.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/L2-AZAD-ADM03/Space%20Game%20-Web%20-%20Pipeline/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
